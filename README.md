@@ -10,5 +10,6 @@ This project contains the JAX-Haiku implementations of some GAN variations, and 
 * Convolutional GAN (to do)
 * WGAN (to do)
 * BigGAN (to do)
-* 
+* VAEGAN (to do)
+* InfoGAN (to do)
 * StyleGAN (to do)
