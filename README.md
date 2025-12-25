@@ -7,9 +7,10 @@ This project contains the JAX-Haiku implementations of some GAN variations, and 
 * Optax
 
 ## List of contents
-* Convolutional GAN (to do)
-* WGAN (to do)
-* BigGAN (to do)
-* VAEGAN (to do)
-* InfoGAN (to do)
-* StyleGAN (to do)
+1. Convolutional GAN (to do)
+2. WGAN (to do)
+3. Conditional GAN (to do)
+4. BigGAN (to do)
+5. VAEGAN (to do)
+6. InfoGAN (to do)
+7. StyleGAN (to do)
